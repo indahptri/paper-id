@@ -1,0 +1,12 @@
+<svg width="560" height="560" viewBox="0 0 560 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Hijau" filter="url(#filter0_f_802_1162)">
+<circle cx="280" cy="280" r="100" fill="#97CC56"/>
+</g>
+<defs>
+<filter id="filter0_f_802_1162" x="0" y="0" width="560" height="560" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="90" result="effect1_foregroundBlur_802_1162"/>
+</filter>
+</defs>
+</svg>
